@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DaveMason 8/23/2019 10:11",
+	"super" : "JavaConstantPoolPlaceholder",
+	"category" : "JavaClassFile-ConstantPool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaConstantPoolPackage",
+	"type" : "normal"
+}

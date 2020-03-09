@@ -1,0 +1,3 @@
+accessing
+resultType
+	^ JavaType wild

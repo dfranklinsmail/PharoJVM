@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DaveMason 5/21/2018 10:37",
+	"super" : "JavaWildTypes",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"min",
+		"max",
+		"isFloat",
+		"javaType"
+	],
+	"name" : "JavaWildNumberType",
+	"type" : "normal"
+}

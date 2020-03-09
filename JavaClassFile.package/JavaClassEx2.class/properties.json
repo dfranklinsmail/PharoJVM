@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "JavaExecutable",
+	"category" : "JavaClassFile-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaClassEx2",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+cpString
+	^ cpString

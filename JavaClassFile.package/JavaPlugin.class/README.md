@@ -1,0 +1,1 @@
+I am a placeholder for org.bukkit.plugin.java.JavaPlugin

@@ -1,0 +1,3 @@
+*JavaClassFile
+isLetter
+	^ false

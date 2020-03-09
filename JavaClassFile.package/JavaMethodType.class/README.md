@@ -1,0 +1,1 @@
+I am the type of a method - including blockClosures

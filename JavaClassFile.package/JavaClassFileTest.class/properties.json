@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DaveMason 8/10/2019 21:38",
+	"super" : "TestCase",
+	"category" : "JavaClassFile-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cf",
+		"cl"
+	],
+	"name" : "JavaClassFileTest",
+	"type" : "normal"
+}

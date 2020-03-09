@@ -1,0 +1,3 @@
+comparing
+instVarNamesToIgnore
+	^ #(defaultType) asOrderedCollection

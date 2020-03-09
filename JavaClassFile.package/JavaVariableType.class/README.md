@@ -1,0 +1,1 @@
+I am the type for all  variables. I know how to unify with other types, but I don't convert  to  Object.

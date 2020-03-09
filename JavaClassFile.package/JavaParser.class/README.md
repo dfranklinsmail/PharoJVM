@@ -1,0 +1,1 @@
+I am a parser to parse a class (or a method).

@@ -1,0 +1,1 @@
+I am a type for Symbols - I use == for equality, toString() returns the string, and I can act like a Block Closure

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DaveMason 5/12/2018 21:35",
+	"super" : "Object",
+	"category" : "JavaClassFile-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"source",
+		"method",
+		"javaClass",
+		"parsing"
+	],
+	"name" : "JavaParser",
+	"type" : "normal"
+}

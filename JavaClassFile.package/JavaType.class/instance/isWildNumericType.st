@@ -1,0 +1,3 @@
+testing
+isWildNumericType
+	^ false

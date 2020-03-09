@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 8/10/2019 21:37",
+	"super" : "TestCase",
+	"category" : "JavaClassFile-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cp"
+	],
+	"name" : "JavaConstantPoolTest",
+	"type" : "normal"
+}

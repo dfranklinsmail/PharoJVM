@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DaveMason 9/9/2018 01:11",
+	"super" : "Collection",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"methodMap",
+		"type"
+	],
+	"name" : "JavaMethodList",
+	"type" : "normal"
+}

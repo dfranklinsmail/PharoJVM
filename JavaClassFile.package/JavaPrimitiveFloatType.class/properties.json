@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DaveMason 5/21/2018 10:48",
+	"super" : "JavaPrimitiveNumberType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FloatMax",
+		"FloatMin"
+	],
+	"instvars" : [ ],
+	"name" : "JavaPrimitiveFloatType",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 8/11/2018 09:03",
+	"super" : "Object",
+	"category" : "JavaClassFile-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key",
+		"done",
+		"result"
+	],
+	"name" : "JavaSwitch",
+	"type" : "normal"
+}

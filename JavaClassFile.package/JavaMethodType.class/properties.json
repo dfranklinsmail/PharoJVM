@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DaveMason 5/9/2018 12:22",
+	"super" : "JavaConcreteType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SpecialMessageTargets"
+	],
+	"instvars" : [
+		"messageType",
+		"resultType"
+	],
+	"name" : "JavaMethodType",
+	"type" : "normal"
+}

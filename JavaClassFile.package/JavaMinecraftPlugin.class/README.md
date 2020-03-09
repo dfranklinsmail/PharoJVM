@@ -1,0 +1,1 @@
+I am a superclass for any Minecraft plugins

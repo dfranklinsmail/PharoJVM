@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "DaveMason 5/9/2018 12:15",
+	"super" : "JavaConcreteType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SupportedMethods",
+		"TypeMap"
+	],
+	"instvars" : [
+		"typeName",
+		"supportedMethods"
+	],
+	"name" : "JavaPrimitiveType",
+	"type" : "normal"
+}

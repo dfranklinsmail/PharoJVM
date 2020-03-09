@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DaveMason 9/8/2018 11:00",
+	"super" : "JavaType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"methodMap",
+		"requiredInterfaces",
+		"classTypes",
+		"commonClassType"
+	],
+	"name" : "JavaMessageTargetType",
+	"type" : "normal"
+}

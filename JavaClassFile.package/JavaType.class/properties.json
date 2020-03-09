@@ -1,0 +1,25 @@
+{
+	"commentStamp" : "DaveMason 5/9/2018 12:09",
+	"super" : "JavaAbstractUnionFind",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [
+		"string"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"JavaArray",
+		"JavaBoolean",
+		"JavaByte",
+		"JavaChar",
+		"JavaDouble",
+		"JavaFloat",
+		"JavaInteger",
+		"JavaLong",
+		"JavaShort",
+		"JavaString",
+		"JavaVoid"
+	],
+	"instvars" : [ ],
+	"name" : "JavaType",
+	"type" : "normal"
+}

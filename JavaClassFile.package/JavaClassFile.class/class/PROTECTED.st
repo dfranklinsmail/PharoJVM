@@ -1,0 +1,3 @@
+constants
+PROTECTED
+	^ ACC_PROTECTED

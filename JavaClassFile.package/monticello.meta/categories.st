@@ -1,0 +1,11 @@
+SystemOrganization addCategory: #JavaClassFile!
+SystemOrganization addCategory: #'JavaClassFile-ClassFile'!
+SystemOrganization addCategory: #'JavaClassFile-Code'!
+SystemOrganization addCategory: #'JavaClassFile-ConstantPool'!
+SystemOrganization addCategory: #'JavaClassFile-Example'!
+SystemOrganization addCategory: #'JavaClassFile-Manifest'!
+SystemOrganization addCategory: #'JavaClassFile-Parser'!
+SystemOrganization addCategory: #'JavaClassFile-Runtime'!
+SystemOrganization addCategory: #'JavaClassFile-Tests'!
+SystemOrganization addCategory: #'JavaClassFile-Types'!
+SystemOrganization addCategory: #'JavaClassFile-Utility'!

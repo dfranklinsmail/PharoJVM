@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 5/2/2018 09:54",
+	"super" : "Object",
+	"category" : "JavaClassFile-Code",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"position",
+		"forward",
+		"code"
+	],
+	"name" : "JavaLabel",
+	"type" : "normal"
+}

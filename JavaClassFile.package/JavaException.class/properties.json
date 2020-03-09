@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DaveMason 5/15/2018 09:13",
+	"super" : "Object",
+	"category" : "JavaClassFile-Code",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startPc",
+		"endPc",
+		"handlerPc",
+		"catchType"
+	],
+	"name" : "JavaException",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am the wild type for all bindings: local, parameter, instance

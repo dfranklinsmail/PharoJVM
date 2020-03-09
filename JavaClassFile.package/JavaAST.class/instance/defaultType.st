@@ -1,0 +1,3 @@
+type inference
+defaultType
+	^ defaultType

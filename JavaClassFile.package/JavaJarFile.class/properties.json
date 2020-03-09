@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 5/23/2018 09:00",
+	"super" : "ZipArchive",
+	"category" : "JavaClassFile-ClassFile",
+	"classinstvars" : [
+		"cache"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contents"
+	],
+	"name" : "JavaJarFile",
+	"type" : "normal"
+}

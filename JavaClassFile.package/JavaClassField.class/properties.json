@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 8/17/2019 22:20",
+	"super" : "JavaClassMethod",
+	"category" : "JavaClassFile-ClassFile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ACC_ENUM",
+		"ACC_TRANSIENT",
+		"ACC_VOLATILE"
+	],
+	"instvars" : [ ],
+	"name" : "JavaClassField",
+	"type" : "normal"
+}

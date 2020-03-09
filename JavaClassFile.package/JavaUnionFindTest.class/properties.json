@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "DaveMason 8/10/2019 21:40",
+	"super" : "TestCase",
+	"category" : "JavaClassFile-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"u1",
+		"u2",
+		"u3",
+		"u4"
+	],
+	"name" : "JavaUnionFindTest",
+	"type" : "normal"
+}

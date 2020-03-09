@@ -1,0 +1,3 @@
+testing
+isInitialized
+	^ constantPool notNil

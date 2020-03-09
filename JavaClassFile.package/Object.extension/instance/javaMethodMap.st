@@ -1,0 +1,3 @@
+*JavaClassFile
+javaMethodMap
+	^ Dictionary new

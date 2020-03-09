@@ -1,0 +1,1 @@
+I represent a field in a Java object. If the field is public and called foo, I look like a method foo() that returns the type of foo, or a foo(x) that takes the type of foo and returns void, but under the covers I turn into a reference or an assignment.

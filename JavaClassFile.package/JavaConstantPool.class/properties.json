@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 5/1/2018 20:52",
+	"super" : "JavaCollection",
+	"category" : "JavaClassFile-ConstantPool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"forwardReferences"
+	],
+	"name" : "JavaConstantPool",
+	"type" : "normal"
+}

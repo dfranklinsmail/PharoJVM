@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "DaveMason 5/19/2018 19:38",
+	"super" : "Object",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SpecialSends"
+	],
+	"instvars" : [
+		"scope",
+		"messageTargets",
+		"typeMap"
+	],
+	"name" : "JavaInferencer",
+	"type" : "normal"
+}

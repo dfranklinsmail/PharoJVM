@@ -1,0 +1,3 @@
+accessing
+packageForScope
+	^ enclosingScope packageForScope

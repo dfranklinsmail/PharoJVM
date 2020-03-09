@@ -1,0 +1,1 @@
+I am a number - integer or float, single or double precision

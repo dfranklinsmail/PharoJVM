@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 5/13/2018 11:52",
+	"super" : "Object",
+	"category" : "JavaClassFile-ClassFile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"array"
+	],
+	"name" : "JavaCollection",
+	"type" : "normal"
+}

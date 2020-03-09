@@ -1,0 +1,3 @@
+accessing
+wild
+	^ JavaWildWildType new

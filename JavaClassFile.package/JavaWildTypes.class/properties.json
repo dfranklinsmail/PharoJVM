@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 5/22/2018 22:07",
+	"super" : "JavaType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rank"
+	],
+	"name" : "JavaWildTypes",
+	"type" : "normal"
+}

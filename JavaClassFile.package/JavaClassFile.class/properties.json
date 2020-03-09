@@ -1,0 +1,40 @@
+{
+	"commentStamp" : "DaveMason 5/23/2018 12:32",
+	"super" : "Object",
+	"category" : "JavaClassFile-ClassFile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ACC_ABSTRACT",
+		"ACC_ANNOTATION",
+		"ACC_BRIDGE",
+		"ACC_ENUM",
+		"ACC_FINAL",
+		"ACC_INTERFACE",
+		"ACC_NATIVE",
+		"ACC_PRIVATE",
+		"ACC_PROTECTED",
+		"ACC_PUBLIC",
+		"ACC_STATIC",
+		"ACC_STRICT",
+		"ACC_SUPER",
+		"ACC_SYNCHRONIZED",
+		"ACC_SYNTHETIC",
+		"ACC_TRANSIENT",
+		"ACC_VARARGS",
+		"ACC_VOLATILE"
+	],
+	"instvars" : [
+		"accessFlags",
+		"constantPool",
+		"thisClass",
+		"superClass",
+		"attributes",
+		"fields",
+		"methods",
+		"interfaces",
+		"readCode"
+	],
+	"name" : "JavaClassFile",
+	"type" : "normal"
+}

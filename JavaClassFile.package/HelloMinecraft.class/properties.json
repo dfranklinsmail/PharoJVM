@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DaveMason 8/25/2019 14:33",
+	"super" : "JavaMinecraftPlugin",
+	"category" : "JavaClassFile-Example",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HelloMinecraft",
+	"type" : "normal"
+}

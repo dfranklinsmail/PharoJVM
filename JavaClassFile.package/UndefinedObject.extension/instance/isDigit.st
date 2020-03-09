@@ -1,0 +1,3 @@
+*JavaClassFile
+isDigit
+	^ false

@@ -1,0 +1,3 @@
+testing
+verifySupport: aJavaMessageTargetType
+	^ true

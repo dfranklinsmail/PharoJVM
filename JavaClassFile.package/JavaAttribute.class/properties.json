@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "DaveMason 5/2/2018 10:50",
+	"super" : "Object",
+	"category" : "JavaClassFile-ClassFile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AttributeMap"
+	],
+	"instvars" : [
+		"constantPool",
+		"attributeName",
+		"contents",
+		"name"
+	],
+	"name" : "JavaAttribute",
+	"type" : "normal"
+}

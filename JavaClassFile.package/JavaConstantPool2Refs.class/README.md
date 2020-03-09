@@ -1,0 +1,1 @@
+I am the superclass of pool elements with 2 pool references

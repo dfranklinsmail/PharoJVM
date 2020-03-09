@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 5/27/2018 11:34",
+	"super" : "JavaMethodType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"smalltalkName"
+	],
+	"name" : "JavaClosureType",
+	"type" : "normal"
+}

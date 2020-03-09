@@ -1,0 +1,3 @@
+converting
+asJavaTypeString
+	^ self subclassResponsibility

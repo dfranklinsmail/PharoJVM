@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "DaveMason 5/1/2018 14:57",
+	"super" : "JavaAttribute",
+	"category" : "JavaClassFile-Code",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"maxStack",
+		"maxLocals",
+		"exceptions",
+		"attributes",
+		"lineNumberTable",
+		"instanceSide",
+		"stack",
+		"parameters",
+		"code",
+		"doWide"
+	],
+	"name" : "JavaCode",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "DaveMason 5/18/2018 09:43",
+	"super" : "JavaType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"javaClass",
+		"instanceType",
+		"methodTypes",
+		"scope",
+		"superclass"
+	],
+	"name" : "JavaClassType",
+	"type" : "normal"
+}

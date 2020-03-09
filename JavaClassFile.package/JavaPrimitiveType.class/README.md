@@ -1,0 +1,1 @@
+I have singular instances for all of the primitive types, plus a few special unifyable values.

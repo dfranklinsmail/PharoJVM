@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DaveMason 8/17/2019 22:19",
+	"super" : "JavaAttribute",
+	"category" : "JavaClassFile-ClassFile",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaCodeAttribute",
+	"type" : "normal"
+}

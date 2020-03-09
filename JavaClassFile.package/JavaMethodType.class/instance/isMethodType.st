@@ -1,0 +1,3 @@
+testing
+isMethodType
+	^ true

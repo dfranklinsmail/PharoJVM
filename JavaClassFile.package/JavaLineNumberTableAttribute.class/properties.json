@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DaveMason 5/15/2018 08:46",
+	"super" : "JavaAttribute",
+	"category" : "JavaClassFile-Code",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceFileName",
+		"array"
+	],
+	"name" : "JavaLineNumberTableAttribute",
+	"type" : "normal"
+}

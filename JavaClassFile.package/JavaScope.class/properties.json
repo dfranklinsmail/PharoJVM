@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 7/9/2018 11:12",
+	"super" : "Object",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"enclosingScope",
+		"dict",
+		"scopeName"
+	],
+	"name" : "JavaScope",
+	"type" : "normal"
+}

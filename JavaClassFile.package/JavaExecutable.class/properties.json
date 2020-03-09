@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 7/10/2019 18:01",
+	"super" : "Object",
+	"category" : "JavaClassFile-Runtime",
+	"classinstvars" : [ ],
+	"pools" : [
+		"JavaGlobals"
+	],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaExecutable",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 5/8/2018 20:52",
+	"super" : "JavaAbstractUnionFind",
+	"category" : "JavaClassFile-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rank"
+	],
+	"name" : "JavaUnionFind",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DaveMason 9/13/2018 21:39",
+	"super" : "JavaWildPointerType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaWildPointerOrForgetfulType",
+	"type" : "normal"
+}

@@ -1,0 +1,1 @@
+I am a generic class that implements efficient set uinon using the unionfind algorithm

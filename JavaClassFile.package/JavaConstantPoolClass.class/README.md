@@ -1,0 +1,1 @@
+I am the CONSTANT_class element

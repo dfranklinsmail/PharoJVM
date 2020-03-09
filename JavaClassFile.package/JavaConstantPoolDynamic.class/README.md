@@ -1,0 +1,1 @@
+The Dynamic type introduced in classfile version 55.0

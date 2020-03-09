@@ -1,0 +1,1 @@
+I represent the scope of a class, so I have all the fields of the class

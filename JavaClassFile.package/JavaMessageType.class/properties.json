@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 5/24/2018 23:22",
+	"super" : "JavaConcreteType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameterTypes",
+		"selector",
+		"javaName"
+	],
+	"name" : "JavaMessageType",
+	"type" : "normal"
+}

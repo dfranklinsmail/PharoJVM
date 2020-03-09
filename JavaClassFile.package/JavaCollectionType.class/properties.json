@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DaveMason 6/14/2018 13:20",
+	"super" : "JavaParameterizedType",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaCollectionType",
+	"type" : "normal"
+}

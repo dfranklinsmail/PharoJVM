@@ -1,0 +1,1 @@
+I am a generic collection type - in Java terms, a class that implements java.util.Collection<E>; in Smalltalk terms a subclass of Collection.

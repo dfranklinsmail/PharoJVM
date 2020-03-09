@@ -1,0 +1,3 @@
+*JavaClassFile
+isSequenceable
+	^ false

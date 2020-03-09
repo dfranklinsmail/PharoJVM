@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "DaveMason 5/25/2018 08:23",
+	"super" : "Error",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"firstType",
+		"secondType"
+	],
+	"name" : "JavaUnificationError",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "DaveMason 9/13/2018 10:03",
+	"super" : "JavaScope",
+	"category" : "JavaClassFile-Types",
+	"classinstvars" : [
+		"default"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isGlobalNamespace"
+	],
+	"name" : "JavaPackage",
+	"type" : "normal"
+}

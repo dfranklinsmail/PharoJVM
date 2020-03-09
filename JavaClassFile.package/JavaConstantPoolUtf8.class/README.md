@@ -1,0 +1,1 @@
+I am the only contant pool value that contains text, everything else has references.

@@ -1,0 +1,3 @@
+constants
+SYNTHETIC
+	^ ACC_SYNTHETIC

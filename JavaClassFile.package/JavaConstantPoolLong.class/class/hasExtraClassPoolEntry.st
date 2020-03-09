@@ -1,0 +1,3 @@
+accessing
+hasExtraClassPoolEntry
+	^ true

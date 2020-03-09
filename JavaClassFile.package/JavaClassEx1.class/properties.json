@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "JavaExecutable",
+	"category" : "JavaClassFile-Example",
+	"classinstvars" : [
+		"aClassInstanceVar"
+	],
+	"pools" : [ ],
+	"classvars" : [
+		"AClassVar"
+	],
+	"instvars" : [
+		"anInstanceVar"
+	],
+	"name" : "JavaClassEx1",
+	"type" : "normal"
+}
