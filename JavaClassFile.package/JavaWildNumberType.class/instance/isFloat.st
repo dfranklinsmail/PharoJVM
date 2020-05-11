@@ -1,3 +1,0 @@
-accessing
-isFloat
-	^ isFloat

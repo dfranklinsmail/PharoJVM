@@ -1,3 +1,0 @@
-code-critics
-ruleRBSentNotImplementedRuleV1FalsePositive
-	^ #(#(#(#RGMethodDefinition #(#LavaVision #onCommand:command:label:args: #false)) #'2019-08-25T15:06:51.307757+02:00') #(#(#RGMethodDefinition #(#LavaVision #onCommand2:command:label:args: #false)) #'2019-08-25T15:30:20.784526+02:00') #(#(#RGClassDefinition #(#LavaVision)) #'2019-08-25T15:33:46.881102+02:00') #(#(#RGClassDefinition #(#HelloMinecraft)) #'2019-08-25T15:36:52.144074+02:00') #(#(#RGClassDefinition #(#PlayerStuff)) #'2019-08-25T15:38:10.047826+02:00') )

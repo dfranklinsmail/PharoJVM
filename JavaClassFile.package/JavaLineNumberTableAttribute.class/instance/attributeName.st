@@ -1,3 +1,0 @@
-attributes
-attributeName
-	^ 'LineNumberTable'

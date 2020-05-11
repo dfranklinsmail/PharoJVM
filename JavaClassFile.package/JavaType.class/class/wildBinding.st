@@ -1,3 +1,0 @@
-accessing
-wildBinding
-	^ JavaWildBindingType new

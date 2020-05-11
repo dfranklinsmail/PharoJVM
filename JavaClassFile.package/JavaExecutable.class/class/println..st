@@ -1,2 +1,0 @@
-fake definition
-println: aString

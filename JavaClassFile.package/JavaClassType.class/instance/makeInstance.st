@@ -1,3 +1,0 @@
-converting
-makeInstance
-	instanceType := true.

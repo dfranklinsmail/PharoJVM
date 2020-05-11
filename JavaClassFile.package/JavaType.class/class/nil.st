@@ -1,3 +1,0 @@
-accessing
-nil
-	^ JavaWildPointerType new

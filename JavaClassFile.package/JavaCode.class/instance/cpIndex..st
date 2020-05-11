@@ -1,3 +1,0 @@
-internal
-cpIndex: aJavaConstantPoolElement
-	code uint16: aJavaConstantPoolElement cpIndex

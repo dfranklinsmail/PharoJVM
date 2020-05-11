@@ -1,3 +1,0 @@
-for testing
-receivedMessages
-	^ methodMap

@@ -1,3 +1,0 @@
-testing
-verifySupport: aJavaMessageTargetType
-	^ true

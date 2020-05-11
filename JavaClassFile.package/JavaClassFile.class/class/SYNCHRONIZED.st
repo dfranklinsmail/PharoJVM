@@ -1,3 +1,0 @@
-constants
-SYNCHRONIZED
-	^ ACC_SYNCHRONIZED

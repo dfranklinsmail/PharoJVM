@@ -1,1 +1,0 @@
-I am a Java class with its package, name, superclass and methods that is being created.

@@ -1,3 +1,0 @@
-converting
-asMethodType
-	^ self

@@ -1,3 +1,0 @@
-comparing
-instVarNamesToIgnore
-	^ #(defaultType) asOrderedCollection

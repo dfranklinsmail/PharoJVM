@@ -1,3 +1,0 @@
-type inference
-isWildType
-	^ true

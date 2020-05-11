@@ -1,3 +1,0 @@
-loading
-> anInteger 
-	self shouldBeImplemented.

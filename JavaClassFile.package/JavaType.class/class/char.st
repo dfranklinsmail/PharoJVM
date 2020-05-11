@@ -1,3 +1,0 @@
-accessing
-char
-	^ JavaChar

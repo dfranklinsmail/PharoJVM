@@ -1,3 +1,0 @@
-testing
-isInterface
-	^ false

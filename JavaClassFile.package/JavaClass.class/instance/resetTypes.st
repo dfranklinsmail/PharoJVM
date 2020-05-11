@@ -1,3 +1,0 @@
-definition
-resetTypes
-	type := nil.

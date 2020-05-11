@@ -1,3 +1,0 @@
-testing
-isMessageTargetType
-	^ false

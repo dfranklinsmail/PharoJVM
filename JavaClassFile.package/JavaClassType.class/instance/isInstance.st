@@ -1,3 +1,0 @@
-testing
-isInstance
-	^ instanceType == true

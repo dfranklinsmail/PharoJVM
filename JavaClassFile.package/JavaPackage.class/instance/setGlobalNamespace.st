@@ -1,3 +1,0 @@
-initialization
-setGlobalNamespace
-	isGlobalNamespace := true.

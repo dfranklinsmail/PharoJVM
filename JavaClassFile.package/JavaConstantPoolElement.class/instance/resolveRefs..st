@@ -1,2 +1,0 @@
-loading
-resolveRefs: aJavaConstantPool 

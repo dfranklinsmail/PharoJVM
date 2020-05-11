@@ -1,3 +1,0 @@
-code-critics
-ruleRBUncommonMessageSendRuleV1FalsePositive
-	^ #(#(#(#RGMethodDefinition #(#LavaVision #onCommand:command:label:args: #false)) #'2019-08-25T15:13:22.653764+02:00') #(#(#RGClassDefinition #(#LavaVision)) #'2019-08-25T15:30:42.601616+02:00') #(#(#RGClassDefinition #(#HelloMinecraft)) #'2019-08-25T15:36:57.760611+02:00') #(#(#RGClassDefinition #(#PlayerStuff)) #'2019-08-25T15:38:18.448703+02:00') )

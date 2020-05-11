@@ -1,3 +1,0 @@
-constants
-ABSTRACT
-	^ ACC_ABSTRACT

@@ -1,3 +1,0 @@
-testing
-isWildWildType
-	^ true

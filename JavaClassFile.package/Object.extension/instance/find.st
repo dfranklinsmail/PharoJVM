@@ -1,2 +1,0 @@
-*JavaClassFile
-find

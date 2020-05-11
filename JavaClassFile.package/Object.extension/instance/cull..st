@@ -1,3 +1,0 @@
-*JavaClassFile
-cull: ignored
-	^ self

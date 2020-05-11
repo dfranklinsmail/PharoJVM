@@ -1,3 +1,0 @@
-testing
-isWildBindingType
-	^ true

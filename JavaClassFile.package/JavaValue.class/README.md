@@ -1,1 +1,0 @@
-I am a superclass of all the basic types from Smalltalk

@@ -1,1 +1,0 @@
-I am a Java class with its package, name, superclass and methods. I differ from JavaClass because my code is in an existing JVM class file.
