@@ -1,0 +1,1 @@
+I am a symbol - string in Java

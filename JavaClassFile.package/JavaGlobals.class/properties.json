@@ -5,6 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [
+		"",
 		"AbstractMethodError",
 		"AbstractStringBuilder",
 		"Appendable",

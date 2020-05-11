@@ -1,0 +1,3 @@
+internal
+cpIndexShort: aJavaConstantPoolElement
+	code nextPut: aJavaConstantPoolElement cpIndex

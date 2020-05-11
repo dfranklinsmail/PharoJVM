@@ -1,0 +1,1 @@
+I represent a Smalltalk BlockClosure for Java

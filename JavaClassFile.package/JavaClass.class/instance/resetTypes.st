@@ -1,0 +1,3 @@
+definition
+resetTypes
+	type := nil.

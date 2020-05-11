@@ -1,0 +1,3 @@
+*JavaClassFile
+isAlphaNumeric
+	^ false

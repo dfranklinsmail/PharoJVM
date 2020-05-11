@@ -1,0 +1,3 @@
+constants
+PRIVATE
+	^ ACC_PRIVATE

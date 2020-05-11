@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DaveMason 8/6/2018 00:05",
+	"super" : "JavaClass",
+	"category" : "JavaClassFile-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JavaBlockClosure",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+converting
+makeInstance
+	instanceType := true.

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DaveMason 5/12/2018 21:43",
+	"super" : "JavaAST",
+	"category" : "JavaClassFile-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value"
+	],
+	"name" : "JavaValue",
+	"type" : "normal"
+}

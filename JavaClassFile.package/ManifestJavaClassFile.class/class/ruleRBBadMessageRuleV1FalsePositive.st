@@ -1,0 +1,3 @@
+code-critics
+ruleRBBadMessageRuleV1FalsePositive
+	^ #(#(#(#RGMethodDefinition #(#JavaParser #parseMessageWith: #false)) #'2019-08-14T08:30:39.760927-04:00') #(#(#RGMethodDefinition #(#LavaVision #onCommand:command:label:args: #false)) #'2019-08-25T15:06:34.947817+02:00') #(#(#RGClassDefinition #(#LavaVision)) #'2019-08-25T15:30:27.335526+02:00') #(#(#RGClassDefinition #(#PlayerStuff)) #'2019-08-25T15:38:35.830138+02:00') )

@@ -1,0 +1,3 @@
+initialization
+setGlobalNamespace
+	isGlobalNamespace := true.

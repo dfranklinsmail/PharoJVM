@@ -1,0 +1,3 @@
+description
+appClass
+	^ self

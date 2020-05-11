@@ -1,0 +1,19 @@
+{
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"constantPool",
+		"start",
+		"end",
+		"type",
+		"defaultType"
+	],
+	"name" : "JavaAST",
+	"commentStamp" : "DaveMason 5/12/2018 21:37",
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "JavaClassFile-Parser"
+}

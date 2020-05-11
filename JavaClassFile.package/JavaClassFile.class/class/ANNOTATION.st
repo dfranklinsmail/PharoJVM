@@ -1,0 +1,3 @@
+constants
+ANNOTATION
+	^ ACC_ANNOTATION
